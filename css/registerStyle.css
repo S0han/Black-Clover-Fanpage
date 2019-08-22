@@ -1,0 +1,12 @@
+#details {
+	text-align: left;
+	background-image: url(../img/yami.jpg);
+	background-size: 150px 300px;
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+
+form {
+	padding-top: 5px;
+}
+

@@ -1,0 +1,75 @@
+/* This is the structure for the Logo */
+body {
+	height: 100%;
+	background-image: url("../img/wallpaper.jpg");
+}
+
+#logobar h1{
+	text-align: center;
+	border-style: solid;
+	border-width: thick;
+	background-color: white;
+	border-radius: 5px;
+	padding: 20px;
+}
+
+#logobar img.logo {
+	width: 70px;
+	height: 70px;
+	vertical-align: middle;
+}
+
+/* This is the structure for the NAV Bar */
+
+nav ul {
+	font-family: sans-serif;
+	position: absolute;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	height: auto;
+	background-color: white;
+	border-style: solid;
+	border-width: thick;
+	border-radius: 5px;
+}
+
+nav ul li a {
+	display: block;
+	color: #000;
+	text-decoration: none; 
+	padding: 35px 25px;
+	text-align: center;
+	height: 25px;
+}
+
+nav ul li a:hover {
+	background-color: #555;
+	color: white;
+}
+
+/* This is the srtucture for the footer  */
+footer {
+	font-family: sans-serif;
+	background-color: white;
+	border-style: solid;
+	border-width: thick;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+/*For all container bodies so code does not have to be repeated */
+.container {
+	margin: auto;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	border-style: solid;
+	border-width: thick;
+	border-radius: 5px;
+	background-color: white;
+	width: 600px;
+	height: 365px;
+	padding: 10px;
+}

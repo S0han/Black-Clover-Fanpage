@@ -1,0 +1,16 @@
+
+#description {
+	margin: auto;
+	text-align: left;
+	width: 550px;
+	height: auto;
+	border-style: dashed;
+	border-width: thick;
+	padding: 5px;
+}
+
+#cute {
+	height: 175px;
+	width: 150px;
+	float: right;
+}

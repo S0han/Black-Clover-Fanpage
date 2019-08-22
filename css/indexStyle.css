@@ -1,0 +1,31 @@
+
+/* This is the page content for index.html */
+
+
+figure {
+	text-align: center;
+}
+
+figcaption {
+	text-align: center;
+	font-weight: bold;
+	border-style: dashed;
+	border-width: thick;
+	border-radius: 5px;
+	font-size: 20px;
+	margin: auto;
+	width: 300px;
+	height: 115px; 
+	padding-left: 15px;
+	background-color: white;
+}
+
+.mainImg {
+	border-style: solid;
+	border-width: thick;
+	border-radius: 5px;
+	padding: 10px;
+	width: 300px;
+	height:300px;
+}
+
